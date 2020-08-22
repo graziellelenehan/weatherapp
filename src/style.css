@@ -1,0 +1,47 @@
+h2 {
+  margin: 0 auto;
+  padding: 10px;
+  color: #f6daca;
+  font-family: "Tenor Sans", sans-serif;
+}
+
+.fa-cloud {
+  font-size: 30px;
+  color: #f6daca;
+}
+
+.fa-cloud-sun {
+  font-size: 30px;
+  color: #f6daca;
+}
+
+.fa-sun {
+  font-size: 30px;
+  color: #f6daca;
+}
+
+.fa-cloud-rain {
+  font-size: 30px;
+  color: #f6daca;
+}
+
+.fa-cloud-moon {
+  font-size: 60px;
+  color: #f6daca;
+}
+
+.card-body {
+  text-align: center;
+  font-family: "Tenor Sans", sans-serif;
+}
+
+body {
+  background-image: url(https://images.pexels.com/photos/66997/pexels-photo-66997.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+}
+.card-deck {
+  background-color: transparent;
+  font-family: "Dosis", sans-serif;
+}
+.card {
+  background-color: transparent;
+}
